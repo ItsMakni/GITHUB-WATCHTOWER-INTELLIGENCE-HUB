@@ -1,0 +1,6 @@
+streamlit
+streamlit-autorefresh
+google-cloud-bigquery
+pandas
+plotly
+db-dtypes
